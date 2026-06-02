@@ -1,0 +1,34 @@
+Section 1: Introdução ao Curso
+Section 2: Ecossistema Claude
+Section 3: Cheat Sheets - Claude IA, Claude Code e Claude Cowork
+Section 4: Utilizando Conectores -Potencializando o Uso do Claude
+Section 5: Introdução ao Claude Code
+Section 6: Instalação e Configuração do Claude Code
+Section 7: Claude Code Hands On
+Section 8: Claude Code Avançado
+Section 9: Novidades do Claude Code
+Section 10: Claude Code (Gratuito) com Ollama
+Section 11: Projetos Interessantes no Claude Code
+Section 12: Desenvolvimento com Claude Code - Projeto do Zero
+Section 13: Agent Skills - Compreenda como usar e criar Skills
+Section 14: Introdução ao Claude Cowork
+Section 15: Projetos com o Cowork
+Section 16: Claude Design
+Section 17: Claude Plugins
+Section 18: Fundamentos do Claude Code (Contextualização Teórica)
+Section 19: Segurança e Governança no Ecossistema Claude
+Section 20: Introdução ao Lovable
+Section 21: Integração Lovable e Supabase
+Section 22: Lovable e Supabase -Desenvolvimento de um Blog do Zero
+Section 23: Lovable - Integração com Gateway de Pagamento
+Section 24: Airtable, Make e outras Ferramentas
+Section 25: Introdução ao Antigravity
+Section 26: Introdução ao Cursor
+Section 27: Instalação e Configuração do Cursor
+Section 28: Funcionalidades de IA e MCP no Cursor
+Section 29: Python Fundamentos
+Section 30: Python Intermediário
+Section 31: Engenharia de Prompts
+Section 32: Fundamentos da IA Generativa
+Section 33: Encerramento
+Section 34: Seção Bônus
