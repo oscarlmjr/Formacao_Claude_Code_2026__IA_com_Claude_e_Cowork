@@ -1,0 +1,5 @@
+Books to Scrape
+books.toscrape.com
+
+playwright-mcp
+https://github.com/microsoft/playwright-mcp
