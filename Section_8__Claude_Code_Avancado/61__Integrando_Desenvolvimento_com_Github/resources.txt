@@ -1,0 +1,7 @@
+Example_CC
+https://github.com/rcbmdev/Example_CC
+
+Install GitHub MCP Server in Claude Applications
+https://github.com/github/github-mcp-server/blob/main/docs/installation-guides/install-claude.md
+
+claude mcp add-json github '{"type":"http","url":"https://api.githubcopilot.com/mcp","headers":{"Authorization":"Bearer YOUR_GITHUB_PAT"}}'
